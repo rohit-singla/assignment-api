@@ -1,0 +1,25 @@
+{
+  "name": "listing",
+  "version": "1.0.0",
+  "description": "CRUD API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "mongoose",
+    "demo"
+  ],
+  "author": "Rohit Singla",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.17",
+    "morgan": "^1.9.1"
+  }
+}
